@@ -2,6 +2,8 @@
 IMDB clone is a database platform that helps you provide seamless services to entertainment lovers and critics.
 With powerful TV shows, movies, and other categories databases it becomes easier for you to launch your own 
 platform for ratings and reviews in the entertainment and media industry.
+ 
+You can view project <a href="
 
 # Here is some snapshots of my project -
 
